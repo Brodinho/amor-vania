@@ -1,5 +1,5 @@
 
-const titulo='❤️ Vanderci & Vânia ❤️';
+const titulo='❤️ Eduardo & Vânia ❤️';
 let ti=0;
 (function t(){if(ti<titulo.length){document.getElementById('typing').innerHTML+=titulo[ti++];setTimeout(t,120)}})();
 
@@ -36,7 +36,7 @@ Eu te amo hoje, amanhã e para sempre.
 
 Com todo meu amor,
 
-Vanderci ❤️`;
+Eduardo ❤️`;
 let p=0;
 (function escrever(){
  if(p<texto.length){
